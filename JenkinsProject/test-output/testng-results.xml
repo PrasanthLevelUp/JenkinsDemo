@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-04T13:16:37 IST" name="Suite" finished-at="2021-09-04T13:16:37 IST" duration-ms="157">
+    <groups>
+    </groups>
+    <test started-at="2021-09-04T13:16:37 IST" name="Test" finished-at="2021-09-04T13:16:37 IST" duration-ms="157">
+      <class name="levelUp.JenkinsProject.NewTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:levelUp.JenkinsProject.NewTest@1eb5174b]" started-at="2021-09-04T13:16:37 IST" name="beforeMethod" finished-at="2021-09-04T13:16:37 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="MyTestMethod()[pri:0, instance:levelUp.JenkinsProject.NewTest@1eb5174b]" started-at="2021-09-04T13:16:37 IST" name="MyTestMethod" finished-at="2021-09-04T13:16:37 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyTestMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:levelUp.JenkinsProject.NewTest@1eb5174b]" started-at="2021-09-04T13:16:37 IST" name="afterMethod" finished-at="2021-09-04T13:16:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- levelUp.JenkinsProject.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
